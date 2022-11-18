@@ -7,6 +7,7 @@ url: ""
 twitter_username: sebanalysis
 github_username: sebanalysis
 markdown: kramdown
-remote_theme: time-machine
+theme: time-machine
 plugins:
   - jekyll-feed
+

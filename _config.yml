@@ -7,7 +7,7 @@ url: ""
 twitter_username: sebanalysis
 github_username: sebanalysis
 markdown: kramdown
-remote_theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache

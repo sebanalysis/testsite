@@ -10,4 +10,5 @@ markdown: kramdown
 theme: time-machine
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 

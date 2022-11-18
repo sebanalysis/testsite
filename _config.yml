@@ -1,12 +1,14 @@
+# customise this for yourself
 title: sebanalysis
 email: sebanalysis@protonmail.com
-description: >-
-  A place to learn about the taxonomy of things.
-baseurl: "testsite"
-url: ""
+description: A place to learn about the taxonomy of things.
 twitter_username: sebanalysis
 github_username: sebanalysis
-markdown: kramdown
+  
+# delete if this is your only site on github pages
+baseurl: "testsite"
+
+# config
 theme: minima
 plugins:
   - jekyll-feed

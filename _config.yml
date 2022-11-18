@@ -10,7 +10,5 @@ baseurl: "testsite"
 
 # config
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
+
 

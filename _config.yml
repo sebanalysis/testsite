@@ -9,6 +9,6 @@ github_username: sebanalysis
 baseurl: "testsite"
 
 # config
-theme: minima
+theme: jekyll-theme-minimal
 
 

@@ -6,10 +6,28 @@ twitter_username: sebanalysis
 github_username: sebanalysis
   
 # delete if this is your only site on github pages
-baseurl: "testsite"
+url: "testsite"
 
 # config
-theme: jekyll-theme-minimal
-repository: sebanalysis/testsite
+# theme: minima
+
+# url: "https://rahul-bothra.github.io"
+# baseurl: "/parchment"
+
+# footer_only_homepage: true
+# footer_url: "https://github.com/sebanalysis"
+# footer_text: "Made by Seb"
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
+
+# permalink: /:year-:month-:day-:title/
+# sass:
+    # style: compressed
+    # sass_dir: css
+
+# navbar:
+ # - name: "About"
+   # link: "about"
 
 

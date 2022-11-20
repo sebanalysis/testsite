@@ -10,5 +10,6 @@ baseurl: "testsite"
 
 # config
 theme: jekyll-theme-minimal
+repository: sebanalysis/testsite
 
 

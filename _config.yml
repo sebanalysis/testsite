@@ -1,12 +1,25 @@
 # customise this for yourself
-title: sebanalysis
+title: Seb Beck
 email: sebanalysis@protonmail.com
+author: Seb Beck
 description: A place to learn about the taxonomy of things.
-twitter_username: sebanalysis
+twitter_username: Sebexor
 github_username: sebanalysis
-  
+instagram_username: sebastiano_bach
+plugins:
+  - jekyll-feed
+
+# Google Analytics
+google_analytics: G-2VDSMTVE8L
+
+navbar:
+- name: "About"
+
 # delete if this is your only site on github pages
-url: "testsite"
+# url: "testsite"
+
+
+
 
 # config
 # theme: minima
@@ -26,8 +39,6 @@ favicon_location: assets/favicon.ico
     # style: compressed
     # sass_dir: css
 
-# navbar:
- # - name: "About"
-   # link: "about"
+
 
 
